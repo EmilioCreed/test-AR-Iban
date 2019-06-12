@@ -1,0 +1,62 @@
+# Blender MTL File: 'photovoltaic sunshade 005.blend'
+# Material Count: 6
+
+newmtl Chrome
+Ns 570.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.824313
+Ks 0.939217 0.939217 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd screen texture 001.png
+
+newmtl black_screen
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.029928 0.029928 0.029928
+Ks 0.380636 0.380636 0.380636
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd screen texture 001.png
+
+newmtl blue_emission
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.067254 0.117075 0.413867
+Ks 0.441462 0.441462 0.441462
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd screen texture 001.png
+
+newmtl blue_solar_panels
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.321364 0.409056 0.640000
+Ks 0.278324 0.343123 0.400327
+Ni 1.400000
+d 0.700000
+illum 2
+map_Kd solar panel texture 001.png
+map_d solar panel texture 001.png
+
+newmtl gray_metal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.091948 0.089405 0.089405
+Ks 0.374201 0.374201 0.374201
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd screen texture 001.png
+
+newmtl gray_metal_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.091948 0.089405 0.089405
+Ks 0.374201 0.374201 0.374201
+Ni 1.000000
+d 1.000000
+illum 2
